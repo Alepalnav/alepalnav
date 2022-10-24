@@ -1,4 +1,4 @@
-![22265962702_91ca33439a_b](https://user-images.githubusercontent.com/92607906/197598384-592d1db1-d6fb-4e43-8b95-7665feed0c3c.png)
+![22265962702_91ca33439a_b2](https://user-images.githubusercontent.com/92607906/197600475-82f0f81d-2bd1-4b52-8c24-9fa0e5303dde.png)
 
 
 <h1 align="center">🙌 Welcome to my Github Profile!</h1>
