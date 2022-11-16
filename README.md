@@ -1,7 +1,5 @@
 ![22265962702_91ca33439a_b2](https://user-images.githubusercontent.com/92607906/197600475-82f0f81d-2bd1-4b52-8c24-9fa0e5303dde.png)
 
-<a href=#><img src="contributions.svg"></a>
-
 <h1 align="center">🙌 Welcome to my Github Profile!</h1>
 <h3 align="center">🌎 A passionate developer student from Seville, Spain</h3>
 
